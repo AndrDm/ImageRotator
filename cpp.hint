@@ -1,0 +1,2 @@
+#define IMAGEROTATOR_API __declspec(dllexport)
+#define IMAGEROTATOR_API __declspec(dllimport)
