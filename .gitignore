@@ -3,10 +3,17 @@
 *.llb
 
 # Shared objects (inc. Windows DLLs)
-*.dll
+# *.dll
 *.so
 *.so.*
 *.dylib
+
+*.pdb
+*.*pdb
+*.*log
+*.*obj
+*.exp
+.vs/
 
 # Executables
 *.exe
